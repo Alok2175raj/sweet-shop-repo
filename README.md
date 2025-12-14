@@ -1,4 +1,4 @@
-# 🍬 Sweet Shop Management System
+<img width="2880" height="1800" alt="Screenshot 2025-12-14 192058" src="https://github.com/user-attachments/assets/e01b9f9b-5e0c-4be5-955e-618b1793dce4" /># 🍬 Sweet Shop Management System
 
 A full-stack **Sweet Shop Management System** built using **Spring Boot (Java)** for the backend and **React** for the frontend. The application supports **JWT-based authentication**, **role-based authorization**, inventory management, and follows **clean architecture and TDD principles**.
 
@@ -167,10 +167,11 @@ mvn test
 
 ## 📸 Screenshots (Add Before Submission)
 
-<img width="2880" height="1800" alt="Screenshot 2025-12-14 184907" src="https://github.com/user-attachments/assets/9784a3cb-0673-48d3-8bcf-d84e4db1a5d6" />
-<img width="2880" height="1800" alt="Screenshot 2025-12-14 184805" src="https://github.com/user-attachments/assets/dc24f41a-f938-49fd-aa31-2bcc010886ad" />
-<img width="2880" height="1800" alt="Screenshot 2025-12-14 184656" src="https://github.com/user-attachments/assets/df08bf7d-fb5d-4117-85e0-f7d4ae9f2f93" />
 <img width="2880" height="1800" alt="Screenshot 2025-12-14 184648" src="https://github.com/user-attachments/assets/6d989d91-5150-4877-8380-c18a82ff3a40" />
+<img width="2880" height="1800" alt="Screenshot 2025-12-14 184656" src="https://github.com/user-attachments/assets/df08bf7d-fb5d-4117-85e0-f7d4ae9f2f93" />
+<img width="2880" height="1800" alt="Screenshot 2025-12-14 192058" src="https://github.com/user-attachments/assets/abd4489b-4fb8-4673-ac56-2f591e13e802" />
+<img width="2880" height="1800" alt="Screenshot 2025-12-14 192337" src="https://github.com/user-attachments/assets/f153e721-73e0-4bc8-bb91-e51b743f93ec" />
+<img width="2880" height="1800" alt="Screenshot 2025-12-14 184907" src="https://github.com/user-attachments/assets/9784a3cb-0673-48d3-8bcf-d84e4db1a5d6" />
 
 
 ---
