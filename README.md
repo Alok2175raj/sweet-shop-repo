@@ -193,9 +193,7 @@ AI significantly improved development speed by assisting with design decisions, 
 
 ---
 
-## 🎯 Interview-Ready Summary
 
-> “This project demonstrates a secure, full-stack application using Spring Boot and React, featuring JWT-based authentication, role-based authorization, clean architecture, and TDD-oriented unit testing.”
 
 ---
 
