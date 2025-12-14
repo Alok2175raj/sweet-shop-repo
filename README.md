@@ -110,7 +110,7 @@ sweet-shop-project
    http://localhost:8080
    ```
 
----
+
 
 ### 2️⃣ Frontend Setup (React)
 
@@ -167,12 +167,11 @@ mvn test
 
 ## 📸 Screenshots (Add Before Submission)
 
-Include screenshots in the repository:
-- Login Page
-- Dashboard
-- Admin actions (Delete / Restock)
-- Postman JWT testing
-- Test execution results
+<img width="2880" height="1800" alt="Screenshot 2025-12-14 184907" src="https://github.com/user-attachments/assets/9784a3cb-0673-48d3-8bcf-d84e4db1a5d6" />
+<img width="2880" height="1800" alt="Screenshot 2025-12-14 184805" src="https://github.com/user-attachments/assets/dc24f41a-f938-49fd-aa31-2bcc010886ad" />
+<img width="2880" height="1800" alt="Screenshot 2025-12-14 184656" src="https://github.com/user-attachments/assets/df08bf7d-fb5d-4117-85e0-f7d4ae9f2f93" />
+<img width="2880" height="1800" alt="Screenshot 2025-12-14 184648" src="https://github.com/user-attachments/assets/6d989d91-5150-4877-8380-c18a82ff3a40" />
+
 
 ---
 
